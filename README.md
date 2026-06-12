@@ -35,7 +35,7 @@ Frontend Web Development Project
 ### Landing Page
 ![Landing Page](screenshots/Myntra-Clone-LandingPage.png)
 
-###Image Gallery
+### Image Gallery
 ![Image Gallery](screenshots/Myntra-Clone-ImageGallery.png)
 
 
