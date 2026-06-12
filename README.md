@@ -32,6 +32,11 @@ A frontend clone of the Myntra website built using HTML and CSS. The project rec
 Frontend Web Development Project
 
 ## Screenshots
+### Landing Page
+![Landing Page](screenshots/Myntra-Clone-LandingPage.png)
+
+###Image Gallery
+![Image Gallery](screenshots/Myntra-Clone-ImageGallery.png)
 
 
 
