@@ -32,8 +32,8 @@ A frontend clone of the Myntra website built using HTML and CSS. The project rec
 Frontend Web Development Project
 
 
-##Live demo link- 
-![Live Demo](https://jhanvi-code23.github.io/Myntra-clone/)
+## Live demo link- 
+https://jhanvi-code23.github.io/Myntra-clone/
 ## Screenshots
 ### Landing Page
 ![Landing Page](screenshots/Myntra-Clone-LandingPage.png)
